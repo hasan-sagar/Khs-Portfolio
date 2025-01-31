@@ -225,7 +225,7 @@ My professional approach centers on creating efficient, user-friendly solutions.
       links: [
         {
           type: "Website",
-          href: "https://pharmacy-management-frontend.onrender.com/",
+          href: "https://blog-application-api-5zjc.onrender.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
